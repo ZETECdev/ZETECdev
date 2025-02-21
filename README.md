@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working in Trading bots / Algorythms / Scanners<br>👯 I’m looking to collaborate on Trading Algorythms and Automated Strategies<br>🌱 I’m currently learning Kotlin, MongoDB, and AI librarys for Python<br>💬 Ask me about Trading code, Telegram bots code, SEO...
+🔭 I'm currently working in Trading bots / Algorythms / Scanners<br>👯 I’m looking to collaborate on Trading Algorythms and Automated Strategies using Python / TypeScript / Node / FastAPI<br>🌱 I’m currently learning Rust, Go, and AI librarys for Python<br>💬 Ask me about Trading code, Telegram bots code, SEO...
 
 
 ## 🌐 Socials:
@@ -42,12 +42,12 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nauZetdev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nauZetdev&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nauZetdev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ZETECdev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZETECdev&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZETECdev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nauZetdev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ZETECdev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
